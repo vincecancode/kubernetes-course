@@ -11,4 +11,5 @@ Tutorial order
 - deployment/helloworld-healthcheck
 - pod-lifecycle  
 - secret (deployment/helloworld-secret)
-)
+- wordpress (demo with secrets)
+
