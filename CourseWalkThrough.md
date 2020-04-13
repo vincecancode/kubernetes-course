@@ -10,3 +10,5 @@ Tutorial order
 - deployment/helloworld-nodeselector
 - deployment/helloworld-healthcheck
 - pod-lifecycle  
+- secret (deployment/helloworld-secret)
+)
