@@ -8,4 +8,5 @@ Tutorial order
 - deployment
 - first-app (for service)
 - deployment/helloworld-nodeselector
-- deployment/helloworld-healthcheck  
+- deployment/helloworld-healthcheck
+- pod-lifecycle  
