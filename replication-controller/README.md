@@ -22,5 +22,7 @@ To scale the number of pods
 
     kubectl scale --replicas=4 -f replication-controller/helloworld-repl-controller.yml
 
-
+## Remove the replication controller
+    
+    kubectl delete rc helloworld-controller        
 
