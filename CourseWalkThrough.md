@@ -7,4 +7,5 @@ Tutorial order
 - replication-controller
 - deployment
 - first-app (for service)
-- deployment/helloworld-nodeselector 
+- deployment/helloworld-nodeselector
+- deployment/helloworld-healthcheck  
