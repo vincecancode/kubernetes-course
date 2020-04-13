@@ -5,4 +5,4 @@ This is the notes when walk-through the course material.
 Tutorial order
 
 - replication-controller
-- 
+- deployment
