@@ -6,3 +6,4 @@ Tutorial order
 
 - replication-controller
 - deployment
+- first-app (for service)
