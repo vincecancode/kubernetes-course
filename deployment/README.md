@@ -75,4 +75,10 @@ We can also edit the deployment (for example, update the revisionHistoryLimit to
 
     kubectl edit deployemnt/helloworld-deployment
     
-  
+## Delete the deployment and service (for clean up)  
+
+    kubectl delete deployment helloworld-deployment
+    
+    kubectl delete service helloworld-deployment
+    
+    
