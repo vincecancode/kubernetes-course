@@ -15,3 +15,4 @@ Tutorial order
 - dashboard & UI
 - service-discovery (DNS)
 - ConfigMap 
+- Ingress
