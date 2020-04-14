@@ -12,4 +12,5 @@ Tutorial order
 - pod-lifecycle  
 - secret (deployment/helloworld-secret)
 - wordpress (demo with secrets)
-
+- dashboard & UI
+- service-discovery
