@@ -1,5 +1,7 @@
 # Ingress
 
+https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/learn/lecture/6090424#overview
+
 Ingress is used to allow inbound connections to the cluster.
 
 It is an alternative to the external Loadbalancer and nodePorts.
