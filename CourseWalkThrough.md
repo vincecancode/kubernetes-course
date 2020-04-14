@@ -13,4 +13,5 @@ Tutorial order
 - secret (deployment/helloworld-secret)
 - wordpress (demo with secrets)
 - dashboard & UI
-- service-discovery
+- service-discovery (DNS)
+- ConfigMap 
