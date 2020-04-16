@@ -18,3 +18,4 @@ Tutorial order
 - Ingress
 - External DNS
 - Volumes
+- Volume Autoprovisioning (demo: wordpress with volumes)
