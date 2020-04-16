@@ -20,3 +20,4 @@ Tutorial order
 - Volumes
 - Volume Autoprovisioning (demo: wordpress with volumes)
 - Pod Presets
+- StatefulSets
