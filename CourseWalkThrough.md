@@ -21,4 +21,4 @@ Tutorial order
 - Volume Autoprovisioning (demo: wordpress with volumes)
 - Pod Presets
 - StatefulSets
-- DaemonSets
+- DaemonSets / Metrics-server
