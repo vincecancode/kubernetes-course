@@ -17,3 +17,4 @@ Tutorial order
 - ConfigMap 
 - Ingress
 - External DNS
+- Volumes
