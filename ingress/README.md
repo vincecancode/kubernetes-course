@@ -10,6 +10,8 @@ It is an alternative to the external Loadbalancer and nodePorts.
 With ingress you can run your own ingress controller (basically a loadbalancer) within the kubernetes cluster
 There are a default ingress controllers (nginx ingress controller) available, or write own ingress controller
 
+Only apply if the traffic is on HTTP/HTTPS, otherwise, can only use the load balancer provided by cloud provider
+
 ## How it works
 
 ![image](howItWorks.png)
