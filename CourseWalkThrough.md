@@ -19,3 +19,4 @@ Tutorial order
 - External DNS
 - Volumes
 - Volume Autoprovisioning (demo: wordpress with volumes)
+- Pod Presets
