@@ -16,3 +16,4 @@ Tutorial order
 - service-discovery (DNS)
 - ConfigMap 
 - Ingress
+- External DNS
